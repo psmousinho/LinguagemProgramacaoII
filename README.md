@@ -1,2 +1,2 @@
 # MatrixMultiplication
- Threads, Pool de Threads, sockets e RMI.
+ Threads, Pool de Threads, sockets, RMI, Exclusão mutua.
